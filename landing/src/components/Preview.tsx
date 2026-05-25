@@ -29,7 +29,7 @@ export default function Screenshots() {
     <section
       className="relative py-12.5 md:py-20 overflow-hidden"
       id="preview"
-      style={{ scrollMarginTop: '100px' }}
+      style={{ scrollMarginTop: '60px' }}
     >
       {/* Background glow for the laptop */}
       <div

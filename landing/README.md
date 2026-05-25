@@ -24,12 +24,12 @@ Arokiyam is a free, cross-platform desktop application designed to protect your 
 ## Getting Started (Web)
 To run the landing page locally:
 ```bash
-npm install
-npm run dev
+bun install
+bun  dev
 ```
 
 ## Contributing
 Arokiyam is fully open source. Contributors are welcome! If you notice any bugs, please log an issue or create a PR targeting `@/components`. 
 
 ## Author
-Developed with ❤️ by **Gokulakrishnan A** (MERN Stack Developer)
+Developed with ❤️ by **Anbuselvan Annamalai**

@@ -23,7 +23,7 @@ export default function Footer() {
               Your intelligent desktop wellness companion.
               Built for developers, by developers.
             </p>
-          </div>
+          </div>git pull origin main
 
           {/* Links */}
           <div className="flex gap-12 max-[768px]:gap-8 flex-wrap">
@@ -95,17 +95,8 @@ export default function Footer() {
               className="font-medium"
               style={{ color: 'var(--text-primary)' }}
             >
-              Anbuselvan Annamalai
+             <span>❤️</span> Anbuselvan Annamalai
             </a>
-            {' • '}
-            Landing by{' '}
-            <span className="font-medium" style={{ color: 'var(--text-primary)' }}>
-              Gokulakrishnan A
-            </span>
-            {' & '}
-            <span className="font-medium" style={{ color: 'var(--text-primary)' }}>
-              Saranmuthukumar K
-            </span>
           </p>
           <p className="text-[0.8rem]" style={{ color: 'var(--text-muted)' }}>All Rights Reserved © 2026</p>
         </div>
